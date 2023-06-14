@@ -24,4 +24,7 @@ extension AnalyticsProtocol {
 
 public class TFAnalyticManager : AnalyticsProtocol  {
     
+    public func getMessage() -> String {
+        return "Hello Package"
+    }
 }
