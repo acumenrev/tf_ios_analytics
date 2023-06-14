@@ -1,4 +1,4 @@
-public struct TFAnalytics {
+public struct TFAnalytic {
     public private(set) var text = "Hello, World!"
 
     public init() {

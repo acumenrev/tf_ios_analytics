@@ -1,3 +1,3 @@
-# TFAnalytics
+# TFAnalytic
 
 A description of this package.

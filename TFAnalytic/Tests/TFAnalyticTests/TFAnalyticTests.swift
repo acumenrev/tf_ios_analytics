@@ -1,11 +1,11 @@
 import XCTest
-@testable import TFAnalytics
+@testable import TFAnalytic
 
-final class TFAnalyticsTests: XCTestCase {
+final class TFAnalyticTests: XCTestCase {
     func testExample() throws {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(TFAnalytics().text, "Hello, World!")
+        XCTAssertEqual(TFAnalytic().text, "Hello, World!")
     }
 }
